@@ -1,3 +1,7 @@
 tasks:
   - init: pip install -r requirments.txt
     command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - donjayamanne.githistory@0.6.9:ZuSpHC+Smmz7WQRRorLS0A==
