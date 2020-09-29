@@ -14,7 +14,7 @@ https://git-scm.com/docs/user-manual
 
 - [Anaconda python](https://www.anaconda.com/products/individual)
 - [Visual Studio Code](https://code.visualstudio.com/)
-PyCharm
+- PyCharm
 
 
 ### How to look at ROOT file
