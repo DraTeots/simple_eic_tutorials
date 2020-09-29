@@ -8,3 +8,9 @@ Simple tutorials in python in dealing with EIC data
 
 # Tools, books, tutorials
 https://git-scm.com/docs/user-manual
+
+
+Install on your machine
+
+Visual Studio Code
+PyCharm
