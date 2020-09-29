@@ -10,7 +10,13 @@ Simple tutorials in python in dealing with EIC data
 https://git-scm.com/docs/user-manual
 
 
-Install on your machine
+### Install on your machine
 
-Visual Studio Code
+- [Anaconda python](https://www.anaconda.com/products/individual)
+- [Visual Studio Code](https://code.visualstudio.com/)
 PyCharm
+
+
+### How to look at ROOT file
+
+http://jsroot.gsi.de/5.8.1/
