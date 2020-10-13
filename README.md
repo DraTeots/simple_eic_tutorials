@@ -7,6 +7,8 @@ Simple tutorials in python in dealing with EIC data
 
 
 # Tools, books, tutorials
+[Uproot tutorial](https://www.youtube.com/watch?v=FoxNS6nlbD0)
+
 https://git-scm.com/docs/user-manual
 
 
