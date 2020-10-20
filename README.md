@@ -20,7 +20,6 @@ https://git-scm.com/docs/user-manual
 - GitKracken for git
 
 
-
 ### How to look at ROOT file
 
 http://jsroot.gsi.de/5.8.1/
