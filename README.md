@@ -2,6 +2,11 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DraTeots/simple_eic_tutorials/master)
 
+```
+# to install libraries
+!pip install -r requirments.txt
+```
+
 # simple_eic_tutorials
 Simple tutorials in python in dealing with EIC data
 
