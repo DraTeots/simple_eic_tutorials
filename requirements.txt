@@ -1,0 +1,13 @@
+plotly
+uproot4
+awkward1
+particle
+boost-histogram
+matplotlib
+pandas
+numexpr
+autograd
+hist
+hist[plot]
+humanize
+mplhep
