@@ -27,6 +27,9 @@ Simple tutorials in python in dealing with EIC data
 - PyCharm
 - GitKracken for git
 
+### File format
+
+- [G4E output file format](https://escalate.readthedocs.io/projects/g4e/en/latest/output.html)
 
 ### How to look at ROOT file
 
