@@ -17,7 +17,8 @@ Simple tutorials in python in dealing with EIC data
 - [Uproot tutorial](https://www.youtube.com/watch?v=FoxNS6nlbD0)
 - [Uproot totorial on GitHub](https://github.com/jpivarski-talks/2020-04-08-eic-jlab)
 - [git tutorial](https://git-scm.com/docs/user-manual)
-
+- [uproot manual](https://uproot.readthedocs.io/en/latest/)
+- [awkward array](https://awkward-array.readthedocs.io/en/latest/)
 
 ### Install on your machine
 
