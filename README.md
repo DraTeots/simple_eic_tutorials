@@ -19,6 +19,7 @@ Simple tutorials in python in dealing with EIC data
 - [git tutorial](https://git-scm.com/docs/user-manual)
 - [uproot manual](https://uproot.readthedocs.io/en/latest/)
 - [awkward array](https://awkward-array.readthedocs.io/en/latest/)
+- [filter by strings discussion](https://github.com/scikit-hep/uproot4/discussions/230)
 
 ### Install on your machine
 
