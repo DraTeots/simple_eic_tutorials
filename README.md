@@ -54,3 +54,27 @@ http://jsroot.gsi.de/5.8.1/
 4. [Uproot tutorial vieo](https://www.youtube.com/watch?v=FoxNS6nlbD0), [uproot tutorial repo](https://github.com/jpivarski-talks/2020-04-08-eic-jlab)
 4. Read about git and github
 
+
+### Planning and calendar
+
+
+| Day         | Description |
+| ----------- | ----------- |
+| Feb Tu 9    | Project planning          |
+| Feb Fr 12   | Scott status presentation |
+| Feb Tu 16   |              |
+| Feb Fr 19   |              |
+| Feb Tu 23   |              |
+| Feb Fr 26   |              |
+| Mar Tu 2    |              |
+| Mar Fr 5    |              |
+| Mar Tu 9    |              |
+| Mar Fr 12   |              |
+| Mar Tu 16   |              |
+| Mar Fr 19   |              |
+| Mar Tu 23   |              |
+| Mar Fr 26   |              |
+| Mar Tu 30   |              |
+| Apr Fr 2    |              |
+| Apr Tu 6    |              |
+| Apr Fr 9    |              |
