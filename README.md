@@ -104,14 +104,14 @@ us `trk_mom`.
 +---------------------+ 
 ```
 
-
+### Calendar
 
 
 | Day         | Description |
 | ----------- | ----------- |
 | Feb Tu 9    | Project planning          |
-| Feb Fr 12   | Scott status presentation |
-| Feb Tu 16   | Task (1)            |
+| *Feb Fr 12* | Scott status presentation |
+| *Feb Tu 16* | Task (1)            |
 | Feb Fr 19   | Group meeting             |
 | Feb Tu 23   |              |
 | Feb Fr 26   | Group meeting             |
