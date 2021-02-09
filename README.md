@@ -57,24 +57,73 @@ http://jsroot.gsi.de/5.8.1/
 
 ### Planning and calendar
 
+#### Global plan
+
+1. Select tracks with Protons and Pi minus mesons
+2. Plot track momentum and energies
+3. Apply filters on where Lambda decayed, look at central and far forward part
+4. Look lambda effective mass (what is effective mass, how we plot it)
+5. Hit occupancy for the detector (looking at hits from proton and pion from lambda)
+6. Look different beam energies
+
+Information: 
+
+PDG - particle data group
+
+- [Lambda at PDG](https://pdg.lbl.gov/2018/listings/rpp2018-list-lambda.pdf)
+- [PDG particle codes](https://pdg.lbl.gov/2007/reviews/montecarlorpp.pdf)
+
+#### Local assignments
+
+1. Selecting Protons and Pi-,
+   
+   to select particular particles, we will use `trk_pdg`, to plot momentums we 
+us `trk_mom`. 
+   `trk_pdg` for pion is -211
+   `trk_pdg` for proton is 2212
+   
+    1. Plot distribution of all momentums (no filtering trk_mom of everything)
+    2. Plot distribution of  momentums for trk_pdg==-211 and trk_pdg==2212 
+    3. Create a new notebook called Lambda, and copy paste opening file, 
+       getting tracks (.array() method) and plotting 1, 2
+
+
+```
++---------------------+
+|trk_count            |     # A number of tracks in an event
+|trk_id               |     # Unique number/id of this particle inside the event
+|trk_pdg              |     # Type of the particle
+|trk_level            | 
+|trk_vtx_x            | 
+|trk_vtx_y            | 
+|trk_vtx_z            | 
+|trk_vtx_dir_x        |     # Track direction x,y,z
+|trk_vtx_dir_y        | 
+|trk_vtx_dir_z        | 
+|trk_mom              |     # Track momentum
++---------------------+ 
+```
+
+
+
 
 | Day         | Description |
 | ----------- | ----------- |
 | Feb Tu 9    | Project planning          |
 | Feb Fr 12   | Scott status presentation |
-| Feb Tu 16   |              |
-| Feb Fr 19   |              |
+| Feb Tu 16   | Task (1)            |
+| Feb Fr 19   | Group meeting             |
 | Feb Tu 23   |              |
-| Feb Fr 26   |              |
+| Feb Fr 26   | Group meeting             |
 | Mar Tu 2    |              |
-| Mar Fr 5    |              |
+| Mar Fr 5    | Group meeting             |
 | Mar Tu 9    |              |
-| Mar Fr 12   |              |
+| Mar Fr 12   | Group meeting             |
 | Mar Tu 16   |              |
-| Mar Fr 19   |              |
+| Mar Fr 19   | Group meeting             |
 | Mar Tu 23   |              |
-| Mar Fr 26   |              |
+| Mar Fr 26   | Group meeting             |
 | Mar Tu 30   |              |
-| Apr Fr 2    |              |
+| Apr Fr 2    | Final results to the group |
 | Apr Tu 6    |              |
-| Apr Fr 9    |              |
+| Apr Fr 9    | Presentation dry run      |
