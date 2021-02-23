@@ -86,8 +86,13 @@ us `trk_mom`.
     2. Plot distribution of  momentums for trk_pdg==-211 and trk_pdg==2212 
     3. Create a new notebook called Lambda, and copy paste opening file, 
        getting tracks (.array() method) and plotting 1, 2
+       
+2. Plot Vertex Decay Z 
 
+   1. Plot distribution of trk_vtx_z filtering that particle is a proton
 
+3. Effective mass from Lambda (Lecture), how to plot it! 
+   
 ```
 +---------------------+
 |trk_count            |     # A number of tracks in an event
@@ -113,16 +118,16 @@ us `trk_mom`.
 | Feb Fr 12   |  +      |Scott status presentation |
 | Feb Tu 16   |         |                          |
 | Feb Fr 19   |         |Group meeting             |
-| *Feb Tu 23* |         |Task (1)                  |
-| Feb Fr 26   |         |Group meeting             |
-| Mar Tu 2    |         |                          |
+| Feb Tu 23   |         |Task (1)                  |
+| *Feb Fr 26* |         |Task (2)                  |
+| Mar Tu 2    |         |Task (3)                  |
 | Mar Fr 5    |         |Group meeting             |
 | Mar Tu 9    |         |                          |
-| Mar Fr 12   |         |Group meeting             |
+| Mar Fr 12   |         |Results/Expected Results  |
 | Mar Tu 16   |         |                          |
 | Mar Fr 19   |         |Group meeting             |
 | Mar Tu 23   |         |                          |
-| Mar Fr 26   |         |Group meeting             |
+| Mar Fr 26   |         |Discussion/Conclusion     |
 | Mar Tu 30   |         |                          |
 | Apr Fr 2    |         |Final results to the group |
 | Apr Tu 6    |         |             |
