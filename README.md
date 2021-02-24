@@ -112,26 +112,26 @@ us `trk_mom`.
 ### Calendar
 
 
-| Day         | On Sch. | Description               |
-| ----------- | ------- | ------------------------- |
-| Feb Tu 9    |  +      | Project planning          |
-| Feb Fr 12   |  +      | Scott status presentation |
-| Feb Tu 16   |         |                           |
-| Feb Fr 19   |         | Group meeting             |
-| Feb Tu 23   |  +      | Task (1)                  |
-| *Feb Fr 26* |         | Task (2)                  |
-| Mar Tu 2    |         | Task (3)                  |
-| Mar Fr 5    |         | Group presentation        |
-| Mar Tu 9    |         |                           |
-| Mar Fr 12   |         | Results/Expected Results  |
-| Mar Tu 16   |         |                           |
-| Mar Fr 19   |         | Group meeting             |
-| Mar Tu 23   |         |                           |
-| Mar Fr 26   |         | Discussion/Conclusion     |
-| Mar Tu 30   |         |                           |
-| Apr Fr 2    |         | Final results to the group|
-| Apr Tu 6    |         |                           |
-| Apr Fr 9    |         | Presentation dry run      |
+| Day           | On Sch. | Description               |
+| ------------- | ------- | ------------------------- |
+| Feb Tu 9      |  +      | Project planning          |
+| Feb Fr 12     |  +      | Scott status presentation |
+| Feb Tu 16     |         |                           |
+| Feb Fr 19     |         | Group meeting             |
+| Feb Tu 23     |  +      | Task (1)                  |
+| **Feb Fr 26** |         | Task (2)                  |
+| Mar Tu 2      |         | Task (3)                  |
+| Mar Fr 5      |         | Group presentation        |
+| Mar Tu 9      |         |                           |
+| Mar Fr 12     |         | Results/Expected Results  |
+| Mar Tu 16     |         |                           |
+| Mar Fr 19     |         | Group meeting             |
+| Mar Tu 23     |         |                           |
+| Mar Fr 26     |         | Discussion/Conclusion     |
+| Mar Tu 30     |         |                           |
+| Apr Fr 2      |         | Final results to the group|
+| Apr Tu 6      |         |                           |
+| Apr Fr 9      |         | Presentation dry run      |
 
 - Results/Expected Results-March 12th
 - Discussion/Conclusion-March 26th
