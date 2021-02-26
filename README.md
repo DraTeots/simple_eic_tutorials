@@ -92,6 +92,22 @@ us `trk_mom`.
    1. Plot distribution of trk_vtx_z filtering that particle is a proton
 
 3. Effective mass from Lambda (Lecture), how to plot it! 
+   1. Run g4e_k_lambda_18on275_10k_l2.run.root file 
+   2. Find energy for Proton and Pion: 
+       - E_proton = sqrt( Proton_momentum**2 + Proton_mass**2 )
+       - E_pion = sqrt(Pion_momentum**2 + Pion_mass**2 )
+       - Proton mass = 0.93827 GeV
+       - Pion mass = 0.1349 GeV
+       - Proton and pion momentums are taken for trk_mom
+   3. Effective mass of Lambda:
+   ```
+   MassLambda = sqrt( (E_proton + E_pion)**2 - (Proton_momentum_x + Pion_momentum_x)**2 - (..._y)**2 - (..._z)**z )
+   Where 
+   Proton_momentum_x, Pion_momentum_x = trk_mom * trk_vtx_dir_x
+   ```
+   
+      
+   
    
 ```
 +---------------------+
@@ -119,8 +135,8 @@ us `trk_mom`.
 | Feb Tu 16     |         |                           |
 | Feb Fr 19     |         | Group meeting             |
 | Feb Tu 23     |  +      | Task (1)                  |
-| **Feb Fr 26** |         | Task (2)                  |
-| Mar Tu 2      |         | Task (3)                  |
+| Feb Fr 26     |  +      | Task (2)                  |
+| **Mar Tu 2**  |         | Task (3)                  |
 | Mar Fr 5      |         | Group presentation        |
 | Mar Tu 9      |         |                           |
 | Mar Fr 12     |         | Results/Expected Results  |
